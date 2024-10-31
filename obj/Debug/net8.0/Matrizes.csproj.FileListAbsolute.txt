@@ -12,3 +12,4 @@ C:\Users\zexni\source\repos\Matrizes\obj\Debug\net8.0\refint\Matrizes.dll
 C:\Users\zexni\source\repos\Matrizes\obj\Debug\net8.0\Matrizes.pdb
 C:\Users\zexni\source\repos\Matrizes\obj\Debug\net8.0\Matrizes.genruntimeconfig.cache
 C:\Users\zexni\source\repos\Matrizes\obj\Debug\net8.0\ref\Matrizes.dll
+C:\Users\zexni\source\repos\Matrizes\obj\Debug\net8.0\Matrizes.sourcelink.json
