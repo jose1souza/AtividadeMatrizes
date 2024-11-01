@@ -35,8 +35,7 @@ using System;
             Matrizes.mostra(matrix);
             Console.WriteLine("Diagonal Principal:");
             DiagonalPrincipal(matrix);
-            Console.WriteLine
-                ();
+            Console.WriteLine();
             Console.WriteLine("Diagonal Secundária:");
             DiagonalSecundaria(matrix);
         }
