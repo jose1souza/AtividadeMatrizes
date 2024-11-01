@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>AtividadeMatrix1e2</StartupObject>
+    <StartupObject>AtividadeMatrix4e5</StartupObject>
   </PropertyGroup>
 
 </Project>

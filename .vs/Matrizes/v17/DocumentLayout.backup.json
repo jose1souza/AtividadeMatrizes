@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\zexni\\source\\repos\\Matrizes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{639EE799-D4D4-4171-8F0F-CF5E1B924A46}|Matrizes.csproj|c:\\users\\zexni\\source\\repos\\matrizes\\atividadematrix1e2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{639EE799-D4D4-4171-8F0F-CF5E1B924A46}|Matrizes.csproj|solutionrelative:atividadematrix1e2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{639EE799-D4D4-4171-8F0F-CF5E1B924A46}|Matrizes.csproj|c:\\users\\zexni\\source\\repos\\matrizes\\atividadematrix4e5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639EE799-D4D4-4171-8F0F-CF5E1B924A46}|Matrizes.csproj|solutionrelative:atividadematrix4e5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{639EE799-D4D4-4171-8F0F-CF5E1B924A46}|Matrizes.csproj|c:\\users\\zexni\\source\\repos\\matrizes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{639EE799-D4D4-4171-8F0F-CF5E1B924A46}|Matrizes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{639EE799-D4D4-4171-8F0F-CF5E1B924A46}|Matrizes.csproj|c:\\users\\zexni\\source\\repos\\matrizes\\matrizes.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{639EE799-D4D4-4171-8F0F-CF5E1B924A46}|Matrizes.csproj|solutionrelative:matrizes.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{639EE799-D4D4-4171-8F0F-CF5E1B924A46}|Matrizes.csproj|c:\\users\\zexni\\source\\repos\\matrizes\\bibliotecamatriz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,31 +22,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AtividadeMatrix1e2.cs",
-              "DocumentMoniker": "C:\\Users\\zexni\\source\\repos\\Matrizes\\AtividadeMatrix1e2.cs",
-              "RelativeDocumentMoniker": "AtividadeMatrix1e2.cs",
-              "ToolTip": "C:\\Users\\zexni\\source\\repos\\Matrizes\\AtividadeMatrix1e2.cs",
-              "RelativeToolTip": "AtividadeMatrix1e2.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAIwCIAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T12:06:22.364Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\zexni\\source\\repos\\Matrizes\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\zexni\\source\\repos\\Matrizes\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T12:10:11.04Z"
+              "Title": "Matrizes",
+              "DocumentMoniker": "C:\\Users\\zexni\\source\\repos\\Matrizes\\Matrizes.csproj",
+              "RelativeDocumentMoniker": "Matrizes.csproj",
+              "ToolTip": "C:\\Users\\zexni\\source\\repos\\Matrizes\\Matrizes.csproj",
+              "RelativeToolTip": "Matrizes.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-31T13:10:04.217Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -58,7 +46,20 @@
               "RelativeToolTip": "BibliotecaMatriz.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T12:10:09.637Z"
+              "WhenOpened": "2024-10-31T13:17:12.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AtividadeMatrix4e5.cs",
+              "DocumentMoniker": "C:\\Users\\zexni\\source\\repos\\Matrizes\\AtividadeMatrix4e5.cs",
+              "RelativeDocumentMoniker": "AtividadeMatrix4e5.cs",
+              "ToolTip": "C:\\Users\\zexni\\source\\repos\\Matrizes\\AtividadeMatrix4e5.cs*",
+              "RelativeToolTip": "AtividadeMatrix4e5.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:05:56.057Z",
+              "EditorCaption": ""
             }
           ]
         }
