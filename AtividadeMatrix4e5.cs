@@ -2,33 +2,26 @@
 using System;
     internal class AtividadeMatrix4e5
     {
-    static void DiagonalPrincipal(int[,] matrix)
+    public static void DiagonalPrincipal(int[,] matrix)
     { 
         int linhas = matrix.GetLength(0);
         for (int i = 0; i < linhas; i++)
         {
             Console.Write($"{matrix[i,i]} |");
-            Console.WriteLine();
         }
     }
-    static void DiagonalSecundaria(int[,] matrix)
+    public static void DiagonalSecundaria(int[,] matrix)
     { 
         int linhas = matrix.GetLength(0);
         int colunas = matrix.GetLength(1);
-        int n = linhas - 1;
+        int j = colunas - 1;
         for (int i = 0;i < linhas; i++)
         {
-            for(int j = 0;j < colunas; j++)
-            {
-                if (i == n)
-                {
-                    Console.Write($"{matrix[i, j]} |" );
-                    Console.WriteLine();
-                }
-            }
+            Console.Write($"{matrix[i, j]} |");
+            j--;
         }
     }
-    static void Main()
+    public static void Main()
     {
         int linhas, cols;
         Console.WriteLine("Digite a quantidade de linhas e colunas:");
@@ -42,6 +35,8 @@ using System;
             Matrizes.mostra(matrix);
             Console.WriteLine("Diagonal Principal:");
             DiagonalPrincipal(matrix);
+            Console.WriteLine
+                ();
             Console.WriteLine("Diagonal Secundária:");
             DiagonalSecundaria(matrix);
         }
